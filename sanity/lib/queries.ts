@@ -1,5 +1,3 @@
-// ./nextjs-app/sanity/lib/queries.ts
-
 import { groq } from "next-sanity";
 
 // to run the groq queries in VSCode with the Sanity plugin,
