@@ -11,7 +11,10 @@
   "dependencies": {
     "@portabletext/react": "^3.0.11",
     "@sanity/client": "^6.10.0",
+    "@sanity/icons": "^2.8.0",
     "@sanity/image-url": "1",
+    "@sanity/ui": "^1.9.3",
+    "@sanity/util": "^3.21.3",
     "@sanity/vision": "3",
     "next": "14.0.4",
     "next-sanity": "5",
